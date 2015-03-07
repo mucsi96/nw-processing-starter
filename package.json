@@ -1,0 +1,35 @@
+{
+  "name": "nw-processing-starter",
+  "version": "0.1.0",
+  "description": "This is a starter project for creating games using processing.js in nw.js environment.",
+  "main": "index.html",
+  "window": {
+    "frame": false,
+    "toolbar": false,
+    "fullscreen": true
+  },
+  "scripts": {
+    "start": "nw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mucsi96/nw-processing-starter.git"
+  },
+  "keywords": [
+    "game",
+    "processing.js",
+    "nw.js",
+    "node",
+    "webkit",
+    "starter"
+  ],
+  "author": "Igor Muchychka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mucsi96/nw-processing-starter/issues"
+  },
+  "homepage": "https://github.com/mucsi96/nw-processing-starter",
+    "dependencies": {
+    "nw": "^0.12.0"
+  }
+}
