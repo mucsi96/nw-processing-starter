@@ -11,6 +11,6 @@ This is a starter project for creating games using processing.js in nw.js enviro
 
     npm start
 
-## Screenshots
+## Demo
 
-![alt tag](http://people.inf.elte.hu/mucsi96/img/nw-processing-starter.png)
+![alt tag](http://people.inf.elte.hu/mucsi96/img/nw-processing-starter.gif)
